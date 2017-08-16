@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="primary_dark">@android:color/holo_blue_dark</color>
-    <color name="primary">@android:color/holo_blue_light</color>
-    <color name="accent">@android:color/holo_blue_bright</color>
-    <color name="accent_dark">@*android:color/holo_green_dark</color>
-    <color name="action_mode">@android:color/holo_blue_bright</color>
-    <color name="item_doc_background_selected">@*android:color/legacy_orange</color>
-</resources>
