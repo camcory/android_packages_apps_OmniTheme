@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.DialogAlert" parent="@*org.omnirom.substratum:style/Theme.AppCompat.Dialog.Alert" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@*android:color/material_grey_850</item>
+    </style>
+</resources>
