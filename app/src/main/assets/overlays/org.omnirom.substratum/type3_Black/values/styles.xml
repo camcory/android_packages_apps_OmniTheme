@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="ActionBarPopupTheme" parent="@*android:style/ThemeOverlay.Material.Dark.ActionBar" >
+        <item name="android:colorBackground">@*android:color/black</item>
+    </style>
+
     <style name="AppTheme.DialogAlert" parent="@*org.omnirom.substratum:style/Theme.AppCompat.Dialog.Alert" >
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowBackground">@*android:color/black</item>

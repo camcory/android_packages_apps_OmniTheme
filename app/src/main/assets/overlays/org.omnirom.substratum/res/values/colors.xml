@@ -4,8 +4,8 @@
     <color name="colorPrimaryDark">@*android:color/primary_dark_material_light</color>
     <color name="colorAccent">@*android:color/accent_material_light</color>
     <color name="fab_menu_icon_color">@*android:color/accent_material_light</color>
-    <color name="toggle_zone_background">#ffe0e0e0</color>
-    <color name="activity_background">#fffafafa</color>
-    <color name="variant_name_color">#ff000000</color>
-    <color name="team_text_color">#ff000000</color>
+
+    <color name="toggle_zone_background_color">@*android:color/material_grey_300</color>
+    <color name="variant_name_text_color">@android:color/black</color>
+    <color name="spinner_icon_tint">@android:color/black</color>
 </resources>

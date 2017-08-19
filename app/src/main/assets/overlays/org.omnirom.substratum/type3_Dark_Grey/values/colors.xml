@@ -11,7 +11,6 @@
     <color name="fab_menu_icon_color">@*android:color/accent_material_dark</color>
     <color name="fab_menu_text_color">#deffffff</color>
     <color name="fab_menu_divider">#4affffff</color>
-    <color name="toggle_zone_background">#ff303030</color>
-    <color name="activity_background">#ff303030</color>
-    <color name="team_text_color">#ffffffff</color>
+
+    <color name="toggle_zone_background_color">#ff303030</color>
 </resources>
