@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="systemui_theme" parent="@android:style/Theme.Material">
-        <item name="android:colorPrimary">#303030</item>
-        <item name="android:colorPrimaryDark">#303030</item>
+        <item name="android:colorPrimary">@*android:color/background_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/background_material_dark</item>
     </style>
 
     <style name="Theme.SystemUI.Dialog" parent="@android:style/Theme.Material.Dialog" />
@@ -12,7 +12,7 @@
     <style name="TextAppearance.NotificationGuts">
         <item name="android:textSize">14sp</item>
         <item name="android:fontFamily">roboto-regular</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="TextAppearance.NotificationGuts.Header">
@@ -38,12 +38,12 @@
         <item name="android:textAllCaps">true</item>
         <item name="android:fontFamily">sans-serif-medium</item>
         <item name="android:gravity">center</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="edit_theme" parent="@*android:style/Theme.Material">
-        <item name="android:colorPrimary">#303030</item>
-        <item name="android:colorPrimaryDark">#303030</item>
+        <item name="android:colorPrimary">@*android:color/background_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/background_material_dark</item>
         <item name="android:colorBackground">#ff303030</item>
     </style>
 

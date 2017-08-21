@@ -23,7 +23,7 @@
 
     <style name="TelecomDialerSettingsActionBarTitleText"
             parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="TelecomDialerSettingsActionOverflowButtonStyle"

@@ -7,5 +7,5 @@
     <color name="current_user_border_color">@*android:color/accent_material_light</color>
     <color name="notification_gear_color">@*android:color/accent_material_light</color>
     <color name="notification_guts_slider_color">@*android:color/accent_material_light</color>
-    <color name="qs_edit_item_decoration_bg">#ff37474f</color>
+    <color name="qs_edit_item_decoration_bg">@*android:color/material_blue_grey_800</color>
 </resources>

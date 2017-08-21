@@ -7,36 +7,36 @@
 
     <style name="PeopleTheme1" parent="@android:style/Theme.Material">
         <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
-        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorPrimary">@*android:color/white</item>
     </style>
 
      <style name="ContactsActionBarTitleText"
             parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
      <style name="ContactsActionBarTabTextStyle"
             parent="android:style/Widget.Material.ActionBar.TabText">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
         <item name="android:elevation">0dp</item>
     </style>
 
     <style name="ContactsActionBarTheme" parent="@android:style/Theme.Material">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
      <style name="ContactEditorAccountsChangedActivityTheme"
             parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth">
-        <item name="android:textColorPrimary">#ffffff</item>
-        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:textColorPrimary">@*android:color/white</item>
+        <item name="android:textColorSecondary">@*android:color/white</item>
     </style>
 
     <style name="SectionDivider">
-        <item name="android:background">#00000000</item>
+        <item name="android:background">@*android:color/transparent</item>
     </style>
 
     <style name="PeopleNavigationDropDownTextAppearance">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
@@ -48,12 +48,12 @@
     <!-- Contacts Common -->
     <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
         <item name="android:textSize">16sp</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
         <item name="android:textSize">14sp</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />

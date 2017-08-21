@@ -3,7 +3,7 @@
     <item android:state_focused="true">
         <shape xmlns:android="http://schemas.android.com/apk/res/android"
                android:shape="rectangle">
-            <stroke android:color="#ff000000" android:width="2dp"/>
+            <stroke android:color="@*android:color/background_material_dark" android:width="2dp"/>
             <corners android:radius="@*com.android.launcher3:dimen/bg_pill_radius" />
         </shape>
     </item>

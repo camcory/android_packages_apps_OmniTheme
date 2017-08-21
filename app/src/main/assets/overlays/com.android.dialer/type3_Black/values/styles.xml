@@ -2,25 +2,25 @@
 <resources>
     <!-- Dialer -->
     <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
-        <item name="android:colorForeground">#ff000000</item>
-        <item name="android:colorBackground">#ff000000</item>
-        <item name="android:textColorPrimary">#ffffff</item>
-        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:colorForeground">@*android:color/background_material_dark</item>
+        <item name="android:colorBackground">@*android:color/background_material_dark</item>
+        <item name="android:textColorPrimary">@*android:color/white</item>
+        <item name="android:textColorSecondary">@*android:color/white</item>
         <item name="android:windowBackground">@*android:color/background_material_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:textColorLink">@*android:color/accent_material_dark</item>
-        <item name="android:textColorTertiary">#ffffff</item>
+        <item name="android:textColorTertiary">@*android:color/white</item>
     </style>
 
     <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
-        <item name="android:colorForeground">#ff000000</item>
-        <item name="android:colorBackground">#ff000000</item>
-        <item name="android:textColorPrimary">#ffffff</item>
-        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:colorForeground">@*android:color/background_material_dark</item>
+        <item name="android:colorBackground">@*android:color/background_material_dark</item>
+        <item name="android:textColorPrimary">@*android:color/white</item>
+        <item name="android:textColorSecondary">@*android:color/white</item>
         <item name="android:windowBackground">@*android:color/background_material_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:textColorLink">@*android:color/accent_material_dark</item>
-        <item name="android:textColorTertiary">#ffffff</item>
+        <item name="android:textColorTertiary">@*android:color/white</item>
     </style>
 
     <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
@@ -36,12 +36,12 @@
     <!-- Contacts Common -->
     <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
         <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
         <item name="android:textSize">14.0sp</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@*android:color/white</item>
     </style>
 
     <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />

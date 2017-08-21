@@ -19,7 +19,7 @@
         <item name="android:ellipsize">marquee</item>
         <item name="android:textColor">@*com.android.launcher3:color/workspace_icon_text_color</item>
         <item name="android:shadowRadius">2.0</item>
-        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowColor">@*android:color/white</item>
         <item name="android:fontFamily">sans-serif-condensed</item>
     </style>
 
@@ -31,7 +31,7 @@
         <item name="android:paddingEnd">@*com.android.launcher3:dimen/deep_shortcut_padding_end</item>
         <item name="android:drawableEnd">@*com.android.launcher3:drawable/deep_shortcuts_drag_handle</item>
         <item name="android:drawablePadding">@*com.android.launcher3:dimen/deep_shortcut_drawable_padding</item>
-        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textColor">@*android:color/white</item>
         <item name="android:textSize">14sp</item>
         <item name="android:fontFamily">sans-serif</item>
         <item name="android:shadowRadius">0</item>

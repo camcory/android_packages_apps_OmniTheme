@@ -6,7 +6,5 @@
     <color name="primary_material_light">#ffff9800</color>
     <color name="primary_dark_material_light">#fff57c00</color>
 
-    <color name="primary_material_settings">#ffff9800</color>
-    <color name="primary_dark_material_settings">#fff57c00</color>
     <color name="secondary_material_settings">#ffff9800</color>
 </resources>
